@@ -4,6 +4,6 @@ A Create, Read, Update and Delete operation using PHP
 >then run the index.php
 <br>
 <h1>FUNCTIONALITIES</h1>
-Insert a new student
-View student list
-UPDATE AND DELETE student
+<p>Insert a new student</p>
+<p>View student list</p>
+<p>UPDATE AND DELETE student</p>
